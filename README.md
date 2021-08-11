@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Harsha Mahesh, CTO of the R-Factory
 
-###About Me
+### About Me
 * Research specialist
 * Innovative concept creator
 * Software Engineer
