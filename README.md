@@ -8,7 +8,7 @@
 * Technical Guider
 * Research concept creator
 
-![visitors](https://github.com/HarshaMahesh)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=HarshaMahesh.id)
 <!--
 **HarshaMahesh/HarshaMahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
