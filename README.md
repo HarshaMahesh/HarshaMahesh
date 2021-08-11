@@ -1,5 +1,14 @@
 ### Hi there 👋
-I'm Harsha Mahesh, CTO of the R-Factory
+### I'm Harsha Mahesh, CTO of the R-Factory
+
+###About Me
+* Research specialist
+* Innovative concept creator
+* Software Engineer
+* Technical Guider
+* Research concept creator
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <!--
 **HarshaMahesh/HarshaMahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
